@@ -1,6 +1,6 @@
 Name:		texlive-totalcount
-Version:	56214
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Commands for typesetting total values of counters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/totalcount
